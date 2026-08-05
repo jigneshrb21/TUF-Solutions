@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 2 | 0 | 0 | `2026-08-05` |
+| **3** | 2 | 1 | 0 | `2026-08-05` |
 
 ---
 
@@ -14,8 +14,9 @@
 
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
-| 0001 | [Find out how many times the array is rotated](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated) | [JAVA](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0002 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0001 | [Find Nth root of a number](./DSA/Binary-Search/find-nth-root-of-a-number) | [JAVA](./DSA/Binary-Search/find-nth-root-of-a-number/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
+| 0002 | [Find out how many times the array is rotated](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated) | [JAVA](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0003 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
 
 ---
 
