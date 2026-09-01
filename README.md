@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **8** | 3 | 4 | 1 | `2026-09-01` |
+| **9** | 3 | 5 | 1 | `2026-09-01` |
 
 ---
 
@@ -21,7 +21,8 @@
 | 0005 | [Find Peak Element - II](./DSA/General/find-peak-element-ii) | [JAVA](./DSA/General/find-peak-element-ii/solution.java) | 🟡 Medium | `DSA` |
 | 0006 | [Longest Consecutive Sequence in an Array](./DSA/Sorting-%26-Arrays-I/longest-consecutive-sequence-in-an-array) | [JAVA](./DSA/Sorting-%26-Arrays-I/longest-consecutive-sequence-in-an-array/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
 | 0007 | [Merge Sorting](./DSA/Sorting-%2526-Arrays-I/merge-sorting) | [JAVA](./DSA/Sorting-%2526-Arrays-I/merge-sorting/solution.java) | 🟡 Medium | `DSA` / `Sorting-%26-Arrays-I` |
-| 0008 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0008 | [Print the matrix in spiral manner](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
+| 0009 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
 
 ---
 
