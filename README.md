@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **10** | 3 | 6 | 1 | `2026-09-01` |
+| **11** | 3 | 7 | 1 | `2026-09-01` |
 
 ---
 
@@ -23,7 +23,8 @@
 | 0007 | [Longest Consecutive Sequence in an Array](./DSA/Sorting-%26-Arrays-I/longest-consecutive-sequence-in-an-array) | [JAVA](./DSA/Sorting-%26-Arrays-I/longest-consecutive-sequence-in-an-array/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
 | 0008 | [Merge Sorting](./DSA/Sorting-%2526-Arrays-I/merge-sorting) | [JAVA](./DSA/Sorting-%2526-Arrays-I/merge-sorting/solution.java) | 🟡 Medium | `DSA` / `Sorting-%26-Arrays-I` |
 | 0009 | [Print the matrix in spiral manner](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
-| 0010 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0010 | [Rotate matrix by 90 degrees](./DSA/Arrays-II/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays-II/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `DSA` / `Arrays-II` |
+| 0011 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
 
 ---
 
