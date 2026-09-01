@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **9** | 3 | 5 | 1 | `2026-09-01` |
+| **10** | 3 | 6 | 1 | `2026-09-01` |
 
 ---
 
@@ -19,10 +19,11 @@
 | 0003 | [Find Nth root of a number](./DSA/Binary-Search/find-nth-root-of-a-number) | [JAVA](./DSA/Binary-Search/find-nth-root-of-a-number/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
 | 0004 | [Find out how many times the array is rotated](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated) | [JAVA](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
 | 0005 | [Find Peak Element - II](./DSA/General/find-peak-element-ii) | [JAVA](./DSA/General/find-peak-element-ii/solution.java) | 🟡 Medium | `DSA` |
-| 0006 | [Longest Consecutive Sequence in an Array](./DSA/Sorting-%26-Arrays-I/longest-consecutive-sequence-in-an-array) | [JAVA](./DSA/Sorting-%26-Arrays-I/longest-consecutive-sequence-in-an-array/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
-| 0007 | [Merge Sorting](./DSA/Sorting-%2526-Arrays-I/merge-sorting) | [JAVA](./DSA/Sorting-%2526-Arrays-I/merge-sorting/solution.java) | 🟡 Medium | `DSA` / `Sorting-%26-Arrays-I` |
-| 0008 | [Print the matrix in spiral manner](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
-| 0009 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0006 | [Kadane's Algorithm](./DSA/Sorting-%26-Arrays-I/kadanes-algorithm) | [JAVA](./DSA/Sorting-%26-Arrays-I/kadanes-algorithm/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
+| 0007 | [Longest Consecutive Sequence in an Array](./DSA/Sorting-%26-Arrays-I/longest-consecutive-sequence-in-an-array) | [JAVA](./DSA/Sorting-%26-Arrays-I/longest-consecutive-sequence-in-an-array/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
+| 0008 | [Merge Sorting](./DSA/Sorting-%2526-Arrays-I/merge-sorting) | [JAVA](./DSA/Sorting-%2526-Arrays-I/merge-sorting/solution.java) | 🟡 Medium | `DSA` / `Sorting-%26-Arrays-I` |
+| 0009 | [Print the matrix in spiral manner](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
+| 0010 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
 
 ---
 
