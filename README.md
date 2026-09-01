@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **14** | 4 | 9 | 1 | `2026-09-01` |
+| **15** | 5 | 9 | 1 | `2026-09-01` |
 
 ---
 
@@ -23,11 +23,12 @@
 | 0007 | [Find Peak Element - II](./DSA/General/find-peak-element-ii) | [JAVA](./DSA/General/find-peak-element-ii/solution.java) | 🟡 Medium | `DSA` |
 | 0008 | [Kadane's Algorithm](./DSA/Sorting-%26-Arrays-I/kadanes-algorithm) | [JAVA](./DSA/Sorting-%26-Arrays-I/kadanes-algorithm/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
 | 0009 | [Longest Consecutive Sequence in an Array](./DSA/Sorting-%26-Arrays-I/longest-consecutive-sequence-in-an-array) | [JAVA](./DSA/Sorting-%26-Arrays-I/longest-consecutive-sequence-in-an-array/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
-| 0010 | [Merge Sorting](./DSA/Sorting-%2526-Arrays-I/merge-sorting) | [JAVA](./DSA/Sorting-%2526-Arrays-I/merge-sorting/solution.java) | 🟡 Medium | `DSA` / `Sorting-%26-Arrays-I` |
-| 0011 | [Print the matrix in spiral manner](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
-| 0012 | [Rotate matrix by 90 degrees](./DSA/Arrays-II/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays-II/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `DSA` / `Arrays-II` |
-| 0013 | [Two Sum](./DSA/Arrays-II/two-sum) | [JAVA](./DSA/Arrays-II/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays-II` |
-| 0014 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0010 | [Majority Element-I](./DSA/Array-III/majority-element-i) | [JAVA](./DSA/Array-III/majority-element-i/solution.java) | 🟢 Easy | `DSA` / `Array-III` |
+| 0011 | [Merge Sorting](./DSA/Sorting-%2526-Arrays-I/merge-sorting) | [JAVA](./DSA/Sorting-%2526-Arrays-I/merge-sorting/solution.java) | 🟡 Medium | `DSA` / `Sorting-%26-Arrays-I` |
+| 0012 | [Print the matrix in spiral manner](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Sorting-%26-Arrays-I/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `DSA` / `Sorting-&-Arrays-I` |
+| 0013 | [Rotate matrix by 90 degrees](./DSA/Arrays-II/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays-II/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `DSA` / `Arrays-II` |
+| 0014 | [Two Sum](./DSA/Arrays-II/two-sum) | [JAVA](./DSA/Arrays-II/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays-II` |
+| 0015 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
 
 ---
 
